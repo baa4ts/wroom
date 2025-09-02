@@ -1,0 +1,19 @@
+# Build directories
+x64/
+wroom/x64/
+
+# Compiled binaries
+*.obj
+*.pch
+*.pdb
+*.dll
+*.iobj
+*.ipdb
+*.exe
+*.lib
+*.log
+*.tlog
+
+# User-specific
+*.user
+*.vs/
